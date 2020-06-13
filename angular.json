@@ -52,8 +52,8 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "40bm",
-                  "maximumError": "40bm"
+                  "maximumWarning": "40mb",
+                  "maximumError": "40mb"
                 }
               ]
             }
